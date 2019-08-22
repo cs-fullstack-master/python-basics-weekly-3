@@ -2,6 +2,7 @@
 
 ## Create a bank program.
 
+#### Reoccuring options (2.5 points)
 Give the user the following options. Once the option that is selected is completed keep asking them until they hit 4 to quit:
 
 ```
@@ -13,19 +14,19 @@ Hello, please choose one of following options:
 What will you like to do?
 ```
 
-#### Check Balance
+#### Check Balance (2.5 points)
 Check balance should show the current balance. Make sure a $ sign is in the sentence.
 
 <strong>Example:</strong> ```Your account has $200 dollars```
 
-#### Add money to account
+#### Add money to account (2.5 points)
 Once this selection is chosen, ask the user how much money they want to deposit. Update their account, then print the updated balance.
 
 <strong>Example:</strong> ```How much would you like to deposit?```
 
 <strong>Example:</strong> ```Your account now holds $205 dollars```
 
-#### Withdraw money from account
+#### Withdraw money from account (2.5 points)
 Once this selection is chosen, ask the user how much money they want to withdraw. If they don't have enough money in the account, print "Insufficient funds". Otherwise, update their account, then print the updated balance.
 
 

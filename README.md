@@ -2,7 +2,7 @@
 
 ## Create a bank program.
 
-# YOU MUST COMMENT THIS PROJECT
+# YOU MUST COMMENT THIS PROJECT AND WRITE OUT A STEP BY STEP PLAN OF WHAT YOU WILL CODE, THEN TEST.
 
 #### Reoccuring options (2.5 points)
 Give the user the following options. Once the option that is selected is completed keep asking them until they hit 4 to quit:

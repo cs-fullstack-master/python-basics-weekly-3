@@ -2,6 +2,8 @@
 
 ## Create a bank program.
 
+# YOU MUST COMMENT THIS PROJECT
+
 #### Reoccuring options (2.5 points)
 Give the user the following options. Once the option that is selected is completed keep asking them until they hit 4 to quit:
 
@@ -34,3 +36,6 @@ Once this selection is chosen, ask the user how much money they want to withdraw
 Before the program starts, ask the user for their account name and a pin number.
 - Instead of using "you", use the account user's name
 - Before allowing them to withdraw, check to see if they know the pin number. If they don't get the correct pin, ask them to try again.
+
+
+# SERIOUSLY, POINTS WILL BE TAKEN OFF FOR NOT COMMENTING
